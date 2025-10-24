@@ -11,10 +11,10 @@
     { "src": "Novia/Novia (9).jpg", "alt": "Novia 9" }
   ],
   "Gala": [
-    { "src": "Gala/gala (1).jpg", "alt": "Gala 1" },
-    { "src": "Gala/gala (2).jpg", "alt": "Gala 2" },
-    { "src": "Gala/gala (3).jpg", "alt": "Gala 3" },
-    { "src": "Gala/gala (4).jpg", "alt": "Gala 4" }
+    { "src": "Gala/Gala (1).jpg", "alt": "Gala 1" },
+    { "src": "Gala/Gala (2).jpg", "alt": "Gala 2" },
+    { "src": "Gala/Gala (3).jpg", "alt": "Gala 3" },
+    { "src": "Gala/Gala (4).jpg", "alt": "Gala 4" }
   ],
   "15_años": [
     { "src": "15 años/15 años (1).jpg", "alt": "15 años 1" },
@@ -22,4 +22,5 @@
     { "src": "15 años/15 años (3).jpg", "alt": "15 años 3" }
   ]
 }
+
 
